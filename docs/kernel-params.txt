@@ -1,0 +1,4 @@
+[    0.000000] Command line: BOOT_IMAGE=/boot/vmlinuz-6.8.0-87-generic root=/dev/mapper/vgubuntu-root ro quiet splash amdgpu.ppfeaturemask=0xffffffff amdgpu.multi_gpu_support=1 amdgpu.dc=1 amdgpu.vm_fragment_size=9 amdgpu.noretry=0 vt.handoff=7
+[    0.067934] Kernel command line: BOOT_IMAGE=/boot/vmlinuz-6.8.0-87-generic root=/dev/mapper/vgubuntu-root ro quiet splash amdgpu.ppfeaturemask=0xffffffff amdgpu.multi_gpu_support=1 amdgpu.dc=1 amdgpu.vm_fragment_size=9 amdgpu.noretry=0 vt.handoff=7
+[    0.068003] Unknown kernel command line parameters "splash BOOT_IMAGE=/boot/vmlinuz-6.8.0-87-generic", will be passed to user space.
+BOOT_IMAGE=/boot/vmlinuz-6.8.0-87-generic root=/dev/mapper/vgubuntu-root ro quiet splash amdgpu.ppfeaturemask=0xffffffff amdgpu.multi_gpu_support=1 amdgpu.dc=1 amdgpu.vm_fragment_size=9 amdgpu.noretry=0 vt.handoff=7
